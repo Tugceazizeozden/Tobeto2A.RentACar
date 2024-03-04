@@ -12,3 +12,4 @@ public class Brand : Entity<Guid>
     public string Logo { get; set; }
     public List<Model> Models { get; set; }
 }
+// proje
